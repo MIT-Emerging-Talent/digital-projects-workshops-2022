@@ -1,6 +1,10 @@
-# The Big Picture
+class: center
 
-Understand the main objectives and phases of your group project.
+# Digital Projects Kick-Off
+
+### "The Big Picture"
+
+![ReACT Logo](../assets/react-logo.png)
 
 ---
 
@@ -171,6 +175,18 @@ class: center
    - Your domain
 
 2. Full-group discussion
+
+---
+
+## Review: Workshop Objectives
+
+- You can explain The Big Picture diagram.
+
+- You can list the 5 phases of your group project.
+
+- You understand how _constraints_ help _scope_ your project.
+
+- You can use _divergent_ and _convergent_ thinking to pace your project.
 
 ---
 
