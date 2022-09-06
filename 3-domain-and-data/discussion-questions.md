@@ -16,9 +16,11 @@ In small groups, investigate the data presented in [Brussels Diversity](https://
 - **Incorrect**:
   - Do you think any of the data is simply not true?
 - **Biased**:
-  - What data might be missing? What parts of the story are not being told?
+  - What data might be missing? 
+  - What parts of the story are not being told?
 - **Outdated**:
-  - What parts of the data might be out of date? Which data is still ok, even if it is oldeR?
+  - What parts of the data might be out of date? 
+  - Which data is still ok, even if it is older?
 - **Noisy**:
   - Is there extra data making the page confusing?
   - What data was removed from the original source to make this page more clear?
