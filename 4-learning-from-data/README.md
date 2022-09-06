@@ -56,7 +56,7 @@ class: center
 
 ---
 
-## A Statement Can Be ...
+## A Prediction Can Be ...
 
 <img alt="correct vs. supported" src="./assets/correct-vs-supported.svg" style="height: 500px;" />
 

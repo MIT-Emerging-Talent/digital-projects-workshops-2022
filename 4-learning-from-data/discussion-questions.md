@@ -4,7 +4,7 @@ Explore the difference between a prediction being _correct_ and _supported_ by u
 
 - Can the available data address each prediction?
   - If yes, is the prediction supported or not supported by the data?
-  - If no, What additional data might you need to collect?
+  - If no, what additional data might you need to collect?
 
 ## Predictions to Discuss
 
