@@ -142,7 +142,7 @@ class: center
 <table>
   <tr>
     <td>
-      <img alt="the big picture" src="./assets/the-big-picture.svg" style="height: 550px;" />
+      <img alt="the big picture" src="../assets/the-big-picture.svg" style="height: 550px;" />
     </td>
     <td>
       <ol>

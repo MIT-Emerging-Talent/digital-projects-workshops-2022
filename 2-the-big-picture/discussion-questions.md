@@ -6,7 +6,7 @@ One group member can share their screen and take notes using any software you li
 
 Don't forget to keep the big picture in mind!
 
-<img alt="the big picture" src="./assets/the-big-picture.svg" style="height: 600px;" />
+<img alt="the big picture" src="../assets/the-big-picture.svg" style="height: 600px;" />
 
 ## Group Constraints
 
