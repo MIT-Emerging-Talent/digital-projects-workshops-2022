@@ -70,21 +70,6 @@ Use covid tests as an example.
 
 <img alt="the big picture" src="../assets/the-big-picture.svg" style="height: 550px;" />
 
-???
-
-Before
-
-1. Define and scope your project
-2. Study your domain
-3. Collect and understand your data
-
-Analysis
-
-4. Formulate specific predictions
-5. Think of how you can validate the analysis results
-6. Run the analysis
-7. Validate the analysis results
-
 ---
 
 ## Risks of not being Impartial
